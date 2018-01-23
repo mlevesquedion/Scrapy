@@ -1,0 +1,6 @@
+*background: #CCCCCC
+*font: Calibri 16
+
+*Label*font: *Calibri 16 bold
+
+*Listbox*font: Calibri 16 bold
